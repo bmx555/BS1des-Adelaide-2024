@@ -14,5 +14,13 @@ https://www.exploit-db.com/exploits/48229
 
 https://en.wikipedia.org/wiki/X86_calling_conventions
 
+https://github.com/Andy53/ERC.Xdbg
+
+https://defuse.ca/online-x86-assembler.htm
+
+https://www.rapidtables.com/convert/number/hex-to-ascii.html
+
+
+
 
 
