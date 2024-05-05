@@ -12,4 +12,7 @@ https://www.exploit-db.com/shellcodes/49819
 
 https://www.exploit-db.com/exploits/48229
 
+https://en.wikipedia.org/wiki/X86_calling_conventions#x86-64_calling_conventions
+
+
 
